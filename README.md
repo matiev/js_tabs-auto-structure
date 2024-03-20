@@ -7,10 +7,10 @@
 
 ```
 <div class="tabs__content"> 
-  <div class="tabs__text" id="About">111111111</div> 
-  <div class="tabs__text" id="View">222222222222</div> 
-  <div class="tabs__text" id="Browse">333333333333333</div> 
-  <div class="tabs__text" id="Service">444444444444444444</div> 
+  <div class="tabs__text" id="Testimonials">First some text</div>
+  <div class="tabs__text" id="Tips">Second some text</div>
+  <div class="tabs__text" id="View">Some text</div>
+  <div class="tabs__text" id="Popular">New other text</div>
 </div>
 ```
 
@@ -36,10 +36,10 @@
     </li> 
   </ul>	
   <div class="tabs__content"> 
-    <div class="tabs__text" id="About">111111111</div> 
-    <div class="tabs__text" id="View">222222222222</div> 
-    <div class="tabs__text" id="Browse">333333333333333</div> 
-    <div class="tabs__text" id="Service">444444444444444444</div> 
+    <div class="tabs__text" id="Testimonials">First some text</div>
+    <div class="tabs__text" id="Tips">Second some text</div>
+    <div class="tabs__text" id="View">Some text</div>
+    <div class="tabs__text" id="Popular">New other text</div> 
   </div> 
 </div>
 ```
