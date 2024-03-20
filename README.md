@@ -1,4 +1,4 @@
-p<h1 align="center">juravl tabs</a> 
+<h1 align="center">juravl tabs</a> 
 <h3 align="center">Automatic tabs for the site.</h3>
 
 <p>Possibility of creating an unlimited number of independent blocks with Tabs on the page.</p>
