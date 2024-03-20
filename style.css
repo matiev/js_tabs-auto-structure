@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tabs__list {
+  background-color: blue;
+  list-style: none;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 1px;
+}
+.tabs__item {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tabs__link {
+  text-decoration: none;
+  color: white;
+  background-color: red;
+  height: 40px;
+  padding: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tabs__link:hover {
+  background-color: green;
+}
+.tabs--active {
+  background-color: green;
+}
+.tabs__text {
+  display: none;
+}
+.tabs--show {
+  display: flex;
+}
+
+
+
+
+/* (.tab, .tab-1 > .tabs__list)
+  Для превращения отдельных табов из горизоньльного позиционирования в вертикальное добавляем стили для отдельного .tab по номеру (.tab-1 - горизонтальный, .tab-3 вертикальный, итд)
+*/
+
+.tab-1 {
+  display: flex;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.tab-1 > .tabs__list {
+  width: auto;
+  flex-direction: column;
+  align-items: flex-start;
+}
