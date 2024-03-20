@@ -34,9 +34,8 @@ p<h1 align="center">juravl tabs</a>
     <li class="tabs__item"> 
       <a href="#" class="tabs__link">Service</a> 
     </li> 
-  </ul>
-	
-	<div class="tabs__content"> 
+  </ul>	
+  <div class="tabs__content"> 
     <div class="tabs__text" id="About">111111111</div> 
     <div class="tabs__text" id="View">222222222222</div> 
     <div class="tabs__text" id="Browse">333333333333333</div> 
