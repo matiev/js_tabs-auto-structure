@@ -5,6 +5,7 @@ p<h1 align="center">juravl tabs</a>
 <p>Individual Tabs can be both horizontal and vertical, by adding CSS properties (.tab-3 and .tabs-3 > .tabs__list), uncommenting and changing the ordinal index on the page for tabs .tab-1, 2, etc...</p>
 <p>Initial structure:</p>
 
+<pre class="notranslate">
 <code>
 <div class="tabs__content"> 
   <div class="tabs__text" id="About">111111111</div> 
@@ -13,6 +14,7 @@ p<h1 align="center">juravl tabs</a>
   <div class="tabs__text" id="Service">444444444444444444</div> 
 </div>
 </code>
+</pre>
 
 <p>For each tab block:</p>
 <p>Based on the initial structure, navigation is created, the text of the links is taken from the id. A parent tabs block is created with a unique index. The navigation and initial structure is placed in this parent tabs block.</p>
