@@ -19,7 +19,7 @@ p<h1 align="center">juravl tabs</a>
 <p>In the initial structure, id can be called the same for different tabs, there will be no conflicts.</p>
 <p>Structure at the end</p>
 
-<code>
+```
 <div class="tabs0"> 
   <ul class="tabs__list"> 
     <li class="tabs__item"> 
@@ -43,5 +43,5 @@ p<h1 align="center">juravl tabs</a>
     <div class="tabs__text" id="Service">444444444444444444</div> 
   </div> 
 </div>
-</code>
+```
 
