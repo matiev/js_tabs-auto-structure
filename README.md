@@ -20,7 +20,7 @@
 <p>Structure at the end</p>
 
 ```
-<div class="tabs0"> 
+<div class="tabs-0"> 
   <ul class="tabs__list"> 
     <li class="tabs__item"> 
       <a href="#" class="tabs__link">About</a> 
