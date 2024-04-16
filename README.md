@@ -13,6 +13,15 @@
   <div class="tabs__text" id="Popular">New other text</div>
 </div>
 
+
+
+
+
+
+
+
+
+
 ```
 <p>For each tab block:</p>
 <p>Based on the initial structure, navigation is created, the text of the links is taken from the id. A parent tabs block is created with a unique index. The navigation and initial structure is placed in this parent tabs block.</p>
