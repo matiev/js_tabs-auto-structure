@@ -1,3 +1,4 @@
+
 <h1 align="center">Javascript tabs, native</a> 
 <h3 align="center">Automatic tabs for the site.</h3>
 
@@ -13,8 +14,6 @@
   <div class="tabs__text" id="Popular">New other text</div>
 </div>
 ```
-
-
 
 
 
