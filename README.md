@@ -21,10 +21,6 @@
 
 
 
-
-
-
-
 <p>For each tab block:</p>
 <p>Based on the initial structure, navigation is created, the text of the links is taken from the id. A parent tabs block is created with a unique index. The navigation and initial structure is placed in this parent tabs block.</p>
 <p>In the initial structure, id can be called the same for different tabs, there will be no conflicts.</p>
