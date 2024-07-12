@@ -5,7 +5,6 @@
 <p>Possibility of creating an unlimited number of independent blocks with Tabs on the page.</p>
 <p>Individual Tabs can be both horizontal and vertical, by adding CSS properties (.tab-3 and .tabs-3 > .tabs__list), uncommenting and changing the ordinal index on the page for tabs .tab-1, 2, etc...</p>
 <p>Initial structure:</p>
-
 ```
 <div class="tabs__content"> 
   <div class="tabs__text" id="Testimonials">First some text</div>
